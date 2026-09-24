@@ -53,7 +53,7 @@
         <item>2.3.1</item>
         <item>2.3.1-arm64ec-gplasync</item>
         <item>vkwind-0.5.2</item>
-        <item>vkwind11-0.2.0</item>
+        <item>vkwind11-0.2.1</item>
     </string-array>
     <string-array name="dxvk_max_device_memory_entries">
         <item>0 (Default)</item>
@@ -157,7 +157,7 @@
         <item>None</item>
         <item>2.8</item>
         <item>2.14.1</item>
-        <item>vkwind11-0.2.0</item>
+        <item>vkwind11-0.2.1</item>
     </string-array>
     <string-array name="some_lc_all">
         <item>ar_EG</item>
