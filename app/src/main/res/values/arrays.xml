@@ -38,6 +38,8 @@
         <item>0.96</item>
         <item>1.10.3 (Default)</item>
         <item>2.3.1</item>
+        <item>vkwind-0.5.2</item>
+        <item>vkwind11-0.3.0-alpha</item>
     </string-array>
     <string-array name="dxvk_max_device_memory_entries">
         <item>0 (Default)</item>
@@ -92,3 +94,4 @@
         <item>Aggressive (Stop services on startup)</item>
     </string-array>
 </resources>
+
